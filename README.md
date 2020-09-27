@@ -1,2 +1,3 @@
 # Learning
-ten plik jest troszkę testowy
+ten plik jest troszkę testowya
+aaaa
